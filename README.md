@@ -1,3 +1,12 @@
+# Installation
+
+Installation is very simple - the game comes already packaged in an executable for Windows, and it’s run and play.
+
+## Playing instructions
+
+All relevant controls are explained in-game, and are, either way, simple and intuitive to follow.
+The game follows basic movement conventions - WASD control scheme to move around, and Space to jump. The robot also has access to a quickstep on Shift, which provides a sudden burst of directed movement and avoids all damage. LMB performs the equipped weapon’s basic move, which may be part of a basic combo, while RMB performs the weapon’s special move. To access the pause menu press P. The main objective of the game is to kill every enemy and access the final golden game waypoints, you may also encounter purple checkpoints which you have to complete in order to proceed in the level.
+
 # Introduction
 
 Welcome to ***Miasma***, an electrifying and adrenaline-pumping
@@ -94,9 +103,7 @@ cyberpunk/vaporwave aesthetic, present in games such as *Severed Steel*
 and *Furi*, and free-flowing mobility fast-paced FPS as found in
 *ULTRAKILL*, *Totally Accurate Battlegrounds* or *Devil Daggers*.
 
-![](vertopal_132f02065f0646e2825fdecf42441c40/media/image3.png){width="3.2in"
-height="1.8in"}![](vertopal_132f02065f0646e2825fdecf42441c40/media/image5.png){width="3.2040004374453193in"
-height="1.8in"}
+![](vertopal_132f02065f0646e2825fdecf42441c40/media/image3.png)![](vertopal_132f02065f0646e2825fdecf42441c40/media/image5.png)
 
 ## Aesthetics
 
@@ -131,34 +138,26 @@ adding depth to the gameplay experience.
 
 ### Concept Art
 
-![](vertopal_132f02065f0646e2825fdecf42441c40/media/image12.png){width="4.040108267716535in"
-height="2.6024595363079617in"}
+![](vertopal_132f02065f0646e2825fdecf42441c40/media/image12.png)
 
 **Figure 1** - Concepts for the robot design.
 
-![](vertopal_132f02065f0646e2825fdecf42441c40/media/image8.png){width="4.060941601049869in"
-height="2.428503937007874in"}
+![](vertopal_132f02065f0646e2825fdecf42441c40/media/image8.png)
 
 **Figure 2** - Concepts for enemy variations.
 
-![](vertopal_132f02065f0646e2825fdecf42441c40/media/image2.png){width="4.180733814523185in"
-height="2.352924321959755in"}
-
+![](vertopal_132f02065f0646e2825fdecf42441c40/media/image2.png)
 **Figure 3** - Initial UI concept.
 
-![](vertopal_132f02065f0646e2825fdecf42441c40/media/image9.png){width="3.9619838145231845in"
-height="2.785498687664042in"}
+![](vertopal_132f02065f0646e2825fdecf42441c40/media/image9.png)
 
 **Figure 4** - Final UI concept.
 
-![](vertopal_132f02065f0646e2825fdecf42441c40/media/image6.png){width="4.336983814523185in"
-height="3.0619477252843397in"}
+![](vertopal_132f02065f0646e2825fdecf42441c40/media/image6.png)
 
 **Figure 5** - Final UI look.
 
-![](vertopal_132f02065f0646e2825fdecf42441c40/media/image7.png){width="4.342191601049869in"
-height="3.066862423447069in"}
-
+![](vertopal_132f02065f0646e2825fdecf42441c40/media/image7.png)
 **Figure 6** - Other UI elements.
 
 ### Game Interface
@@ -166,9 +165,7 @@ height="3.066862423447069in"}
 When the user enters the game they are first faced with the main menu
 (Figure 7) where they can choose to start the game or quit it.
 
-![](vertopal_132f02065f0646e2825fdecf42441c40/media/image11.png){width="4.722400481189851in"
-height="2.65875in"}
-
+![](vertopal_132f02065f0646e2825fdecf42441c40/media/image11.png)
 **Figure 7** - Main Menu.
 
 After clicking to start the game, they are shown the intro cutscene (
@@ -177,11 +174,11 @@ can be skipped by pressing the S key so repeating players don't have to
 watch it every time they play.
 
   -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  ![](vertopal_132f02065f0646e2825fdecf42441c40/media/image16.png){width="2.8503937007874014in"   ![](vertopal_132f02065f0646e2825fdecf42441c40/media/image10.png){width="2.8503937007874014in"
-  height="1.6106036745406824in"}                                                                  height="1.5959241032370954in"}
+  ![](vertopal_132f02065f0646e2825fdecf42441c40/media/image16.png)   ![](vertopal_132f02065f0646e2825fdecf42441c40/media/image10.png)
+
   ----------------------------------------------------------------------------------------------- -----------------------------------------------------------------------------------------------
-  ![](vertopal_132f02065f0646e2825fdecf42441c40/media/image1.png){width="2.8489588801399823in"    ![](vertopal_132f02065f0646e2825fdecf42441c40/media/image15.png){width="2.8503937007874014in"
-  height="1.5654680664916885in"}                                                                  height="1.5774376640419947in"}
+  ![](vertopal_132f02065f0646e2825fdecf42441c40/media/image1.png)   ![](vertopal_132f02065f0646e2825fdecf42441c40/media/image15.png)
+
 
   -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -191,17 +188,13 @@ While inside the game, pressing the P key opens the pause menu (Figure
 12) and pauses the game. From this menu players can resume the game or
 quit it and go back to the main menu.
 
-![](vertopal_132f02065f0646e2825fdecf42441c40/media/image14.png){width="5.389067147856518in"
-height="3.0016305774278216in"}
-
+![](vertopal_132f02065f0646e2825fdecf42441c40/media/image14.png)
 **Figure 12** - Pause Menu.
 
 Every time a player switches levels they are shown the loading screen
 (Figure 13) while the next level is loaded.
 
-![](vertopal_132f02065f0646e2825fdecf42441c40/media/image13.png){width="5.232817147856518in"
-height="2.9332392825896765in"}
-
+![](vertopal_132f02065f0646e2825fdecf42441c40/media/image13.png)
 **Figure 13** - Loading screen.
 
 While playing the game, the player's screen displays the icons shown in
@@ -221,17 +214,13 @@ the screen) appears, disappearing when the key is no longer pressed.
 From the weapon switcher, moving the mouse in different directions
 allows the player to swap the equipped weapon.
 
-![](vertopal_132f02065f0646e2825fdecf42441c40/media/image17.png){width="5.253650481189851in"
-height="2.6577285651793527in"}
-
+![](vertopal_132f02065f0646e2825fdecf42441c40/media/image17.png)
 **Figure 14** - Player UI.
 
 Once the player has completed all levels they can see their results in
 the end screen (Figure 15).
 
-![](vertopal_132f02065f0646e2825fdecf42441c40/media/image4.png){width="5.549575678040245in"
-height="3.1216360454943133in"}
-
+![](vertopal_132f02065f0646e2825fdecf42441c40/media/image4.png)
 **Figure 15** - End Screen.
 
 ### Sound
