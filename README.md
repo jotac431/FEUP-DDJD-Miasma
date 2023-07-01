@@ -2,6 +2,8 @@
 
 Installation is very simple - the game comes already packaged in an executable for Windows, and it’s run and play.
 
+Download from itch.io : jfbaltazar.itch.io/miasma
+
 ## Playing instructions
 
 All relevant controls are explained in-game, and are, either way, simple and intuitive to follow.
